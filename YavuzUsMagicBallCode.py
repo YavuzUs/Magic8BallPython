@@ -1,5 +1,5 @@
 #Yavuz Ata Us
-#Magic 8 Ball Extra - Cred Assignment
+#Magic 8 Ball Code
 
 from random import randint
 
